@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+AutoLibLoader/AutoLibLoader.py
+AutoLibLoader/__init__.py
+AutoLibLoader.egg-info/PKG-INFO
+AutoLibLoader.egg-info/SOURCES.txt
+AutoLibLoader.egg-info/dependency_links.txt
+AutoLibLoader.egg-info/top_level.txt

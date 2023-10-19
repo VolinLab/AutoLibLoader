@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: AutoLibLoader
+Version: 0.0.1
+Summary: A package allows you to automatically download the necessary libraries through the Python programming languages PIP package manager. The list of required libraries is given in the file "requirements.txt". This code is intended for fast and automatic deployment of already existing program code on a new device, automating the process of downloading the necessary libraries through the PIP package manager.
+Home-page: https://github.com/VolinLab/AutoLibLoader/
+Author: Volin Nilov
+Author-email: rbuswork@inbox.ru
+Classifier: Programming Language :: Python :: 3.10.0
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# AutoLibLoader
